@@ -1,0 +1,1482 @@
+Starting CloudSimulator...
+Done with creating hosts...
+PM1 has usage: 711
+PM2 has usage: 1635
+PM3 has usage: 1564
+PM4 has usage: 2244
+PM5 has usage: 1572
+PM6 has usage: 2060
+PM7 has usage: 1189
+PM8 has usage: 2491
+PM9 has usage: 2242
+PM10 has usage: 895
+PM4 before migration: 2244
+PM4 before migration: 2244
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM6 before migration: 2060
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM8 before migration: 2491
+PM6 before migration: 2060
+PM4 before migration: 2244
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM9 before migration: 2242
+- host 0 in time: 0.0 711
+- host 1 in time: 0.0 1635
+- host 2 in time: 0.0 1564
+- host 3 in time: 0.0 2244
+- host 4 in time: 0.0 1572
+- host 5 in time: 0.0 2060
+- host 6 in time: 0.0 1189
+- host 7 in time: 0.0 2491
+- host 8 in time: 0.0 2242
+- host 9 in time: 0.0 895
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM8 before migration: 2491
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM4 before migration: 2244
+PM9 before migration: 2242
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM8 before migration: 2491
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM4 before migration: 2244
+PM9 before migration: 2242
+PM6 before migration: 2060
+PM4 before migration: 2244
+PM8 before migration: 2491
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+The minimum PM is: PM1@katsavoinen_feb with usage: 711 for host: PM4
+The minimum PM is: PM1@katsavoinen_feb with usage: 711 for host: PM4
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2244
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM6 before migration: 2060
+PM4 before migration: 2244
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM6 before migration: 2060
+- host 0 in time: 3.649 850
+- host 1 in time: 3.65 1635
+- host 2 in time: 3.65 1564
+- host 3 in time: 3.651 2244
+- host 4 in time: 3.651 1572
+- host 5 in time: 3.652 2060
+- host 6 in time: 3.652 1189
+- host 7 in time: 3.656 2491
+- host 8 in time: 3.656 2242
+- host 9 in time: 3.657 895
+=== PM1 usage after getting a migration: 850
+- host 0 in time: 3.663 850
+- host 1 in time: 3.666 1635
+- host 2 in time: 3.666 1564
+- host 3 in time: 3.667 2244
+- host 4 in time: 3.667 1572
+- host 5 in time: 3.668 2060
+- host 6 in time: 3.668 1189
+- host 7 in time: 3.669 2491
+- host 8 in time: 3.669 2242
+- host 9 in time: 3.67 895
+=== PM1 usage after getting a migration: 850
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM6 before migration: 2060
+PM4 before migration: 2244
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM4 before migration: 2244
+PM9 before migration: 2242
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM4 before migration: 2244
+The minimum PM is: PM1@katsavoinen_feb with usage: 711 for host: PM6
+PM9 before migration: 2242
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM4 before migration: 2244
+PM9 before migration: 2242
+- host 0 in time: 4.43 850
+- host 1 in time: 4.433 1635
+- host 2 in time: 4.434 1564
+- host 3 in time: 4.434 2105
+- host 4 in time: 4.435 1572
+- host 5 in time: 4.435 2060
+- host 6 in time: 4.436 1189
+- host 7 in time: 4.436 2491
+- host 8 in time: 4.437 2242
+- host 9 in time: 4.437 895
+=== PM4 usage after sending a migration: 2105
+PM6 before migration: 2060
+PM8 before migration: 2491
+PM9 before migration: 2242
+- host 0 in time: 4.618 1000
+- host 1 in time: 4.619 1635
+- host 2 in time: 4.62 1564
+- host 3 in time: 4.624 2105
+- host 4 in time: 4.624 1572
+- host 5 in time: 4.63 2060
+- host 6 in time: 4.631 1189
+- host 7 in time: 4.631 2491
+- host 8 in time: 4.632 2242
+- host 9 in time: 4.632 895
+=== PM1 usage after getting a migration: 1000
+PM8 before migration: 2491
+PM4 before migration: 2105
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM8 before migration: 2491
+PM6 before migration: 2060
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM4 before migration: 2105
+PM8 before migration: 2491
+The minimum PM is: PM1@katsavoinen_feb with usage: 711 for host: PM6
+PM6 before migration: 2060
+PM9 before migration: 2242
+- host 0 in time: 5.118 1000
+- host 1 in time: 5.119 1635
+- host 2 in time: 5.12 1564
+- host 3 in time: 5.12 2105
+- host 4 in time: 5.12 1572
+- host 5 in time: 5.121 1910
+- host 6 in time: 5.121 1189
+- host 7 in time: 5.122 2491
+- host 8 in time: 5.127 2242
+- host 9 in time: 5.127 895
+=== PM6 usage after sending a migration: 1910
+PM8 before migration: 2491
+PM4 before migration: 2105
+PM6 before migration: 1910
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM4 before migration: 2105
+PM6 before migration: 1910
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM8 before migration: 2491
+PM6 before migration: 1910
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM6 before migration: 1910
+PM4 before migration: 2105
+PM4 before migration: 2105
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM6 before migration: 1910
+PM4 before migration: 2105
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM4 before migration: 2105
+PM6 before migration: 1910
+PM8 before migration: 2491
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM8 before migration: 2491
+PM6 before migration: 1910
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM8 before migration: 2491
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM6 before migration: 1910
+PM8 before migration: 2491
+PM4 before migration: 2105
+PM9 before migration: 2242
+The minimum PM is: PM1@katsavoinen_feb with usage: 711 for host: PM8
+PM4 before migration: 2105
+PM6 before migration: 1910
+PM8 before migration: 2491
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM6 before migration: 1910
+PM4 before migration: 2105
+PM8 before migration: 2491
+PM4 before migration: 2105
+PM6 before migration: 1910
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM8 before migration: 2491
+PM6 before migration: 1910
+- host 0 in time: 7.287 1147
+- host 1 in time: 7.288 1635
+- host 2 in time: 7.289 1564
+- host 3 in time: 7.289 2105
+- host 4 in time: 7.289 1572
+- host 5 in time: 7.29 1910
+- host 6 in time: 7.29 1189
+- host 7 in time: 7.29 2491
+- host 8 in time: 7.291 2242
+- host 9 in time: 7.291 895
+=== PM1 usage after getting a migration: 1147
+PM6 before migration: 1910
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM8 before migration: 2491
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM8 before migration: 2491
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM8 before migration: 2491
+- host 0 in time: 7.924 1147
+- host 1 in time: 7.925 1635
+- host 2 in time: 7.925 1564
+- host 3 in time: 7.926 2105
+- host 4 in time: 7.926 1572
+- host 5 in time: 7.927 1910
+- host 6 in time: 7.927 1189
+- host 7 in time: 7.927 2344
+- host 8 in time: 7.931 2242
+- host 9 in time: 7.932 895
+=== PM8 usage after sending a migration: 2344
+PM4 before migration: 2105
+The minimum PM is: PM1@katsavoinen_feb with usage: 711 for host: PM8
+PM9 before migration: 2242
+PM8 before migration: 2344
+PM4 before migration: 2105
+The minimum PM is: PM1@katsavoinen_feb with usage: 711 for host: PM9
+PM9 before migration: 2242
+PM4 before migration: 2105
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM4 before migration: 2105
+- host 0 in time: 8.82 1307
+- host 1 in time: 8.821 1635
+- host 2 in time: 8.821 1564
+- host 3 in time: 8.822 2105
+- host 4 in time: 8.822 1572
+- host 5 in time: 8.822 1910
+- host 6 in time: 8.823 1189
+- host 7 in time: 8.823 2344
+- host 8 in time: 8.824 2242
+- host 9 in time: 8.829 895
+=== PM1 usage after getting a migration: 1307
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM9 before migration: 2242
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM9 before migration: 2242
+The minimum PM is: PM1@katsavoinen_feb with usage: 711 for host: PM9
+- host 0 in time: 9.558 1307
+- host 1 in time: 9.56 1635
+- host 2 in time: 9.56 1564
+- host 3 in time: 9.561 2105
+- host 4 in time: 9.561 1572
+- host 5 in time: 9.561 1910
+- host 6 in time: 9.562 1189
+- host 7 in time: 9.562 2344
+- host 8 in time: 9.563 2082
+- host 9 in time: 9.563 895
+=== PM9 usage after sending a migration: 2082
+The minimum PM is: PM1@katsavoinen_feb with usage: 711 for host: PM9
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM9 before migration: 2082
+PM4 before migration: 2105
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM4 before migration: 2105
+PM8 before migration: 2344
+The minimum PM is: PM1@katsavoinen_feb with usage: 711 for host: PM9
+PM9 before migration: 2082
+PM4 before migration: 2105
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM4 before migration: 2105
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM4 before migration: 2105
+PM4 before migration: 2105
+PM9 before migration: 2082
+PM4 before migration: 2105
+PM9 before migration: 2082
+The minimum PM is: PM10@katsavoinen_feb with usage: 895 for host: PM4
+PM9 before migration: 2082
+The minimum PM is: PM10@katsavoinen_feb with usage: 895 for host: PM4
+PM4 before migration: 2105
+PM9 before migration: 2082
+PM4 before migration: 2105
+The minimum PM is: PM10@katsavoinen_feb with usage: 895 for host: PM4
+- host 0 in time: 11.702 1307
+- host 1 in time: 11.703 1635
+- host 2 in time: 11.703 1564
+- host 3 in time: 11.703 2105
+- host 4 in time: 11.704 1572
+- host 5 in time: 11.704 1910
+- host 6 in time: 11.704 1189
+- host 7 in time: 11.704 2344
+- host 8 in time: 11.708 2082
+- host 9 in time: 11.708 1062
+=== PM10 usage after getting a migration: 1062
+- host 0 in time: 11.726 1307
+- host 1 in time: 11.727 1635
+- host 2 in time: 11.727 1564
+- host 3 in time: 11.727 2105
+- host 4 in time: 11.728 1572
+- host 5 in time: 11.728 1910
+- host 6 in time: 11.728 1189
+- host 7 in time: 11.729 2344
+- host 8 in time: 11.729 2082
+- host 9 in time: 11.729 1062
+=== PM10 usage after getting a migration: 1062
+PM9 before migration: 2082
+PM4 before migration: 2105
+The minimum PM is: PM10@katsavoinen_feb with usage: 895 for host: PM4
+PM9 before migration: 2082
+PM9 before migration: 2082
+- host 0 in time: 11.977 1307
+- host 1 in time: 11.977 1635
+- host 2 in time: 11.977 1564
+- host 3 in time: 11.978 2105
+- host 4 in time: 11.978 1572
+- host 5 in time: 11.978 1910
+- host 6 in time: 11.978 1189
+- host 7 in time: 11.979 2344
+- host 8 in time: 11.979 2082
+- host 9 in time: 11.979 1062
+=== PM10 usage after getting a migration: 1062
+PM4 before migration: 2105
+PM9 before migration: 2082
+The minimum PM is: PM10@katsavoinen_feb with usage: 895 for host: PM4
+PM9 before migration: 2082
+- host 0 in time: 12.15 1307
+- host 1 in time: 12.151 1635
+- host 2 in time: 12.151 1564
+- host 3 in time: 12.152 2105
+- host 4 in time: 12.152 1572
+- host 5 in time: 12.157 1910
+- host 6 in time: 12.158 1189
+- host 7 in time: 12.162 2344
+- host 8 in time: 12.164 2082
+- host 9 in time: 12.165 1062
+=== PM10 usage after getting a migration: 1062
+- host 0 in time: 12.2 1307
+- host 1 in time: 12.2 1635
+- host 2 in time: 12.2 1564
+- host 3 in time: 12.201 1938
+- host 4 in time: 12.201 1572
+- host 5 in time: 12.201 1910
+- host 6 in time: 12.202 1189
+- host 7 in time: 12.202 2344
+- host 8 in time: 12.202 2082
+- host 9 in time: 12.203 1062
+=== PM4 usage after sending a migration: 1938
+The minimum PM is: PM1@katsavoinen_feb with usage: 1000 for host: PM4
+PM9 before migration: 2082
+PM4 before migration: 1938
+PM9 before migration: 2082
+PM9 before migration: 2082
+- host 0 in time: 12.356 1307
+- host 1 in time: 12.358 1635
+- host 2 in time: 12.359 1564
+- host 3 in time: 12.359 1938
+- host 4 in time: 12.365 1572
+- host 5 in time: 12.367 1910
+- host 6 in time: 12.368 1189
+- host 7 in time: 12.369 2344
+- host 8 in time: 12.371 2082
+- host 9 in time: 12.372 1062
+=== PM10 usage after getting a migration: 1062
+PM9 before migration: 2082
+PM4 before migration: 1938
+The minimum PM is: PM1@katsavoinen_feb with usage: 1000 for host: PM4
+The minimum PM is: PM1@katsavoinen_feb with usage: 1000 for host: PM4
+- host 0 in time: 12.484 1472
+- host 1 in time: 12.486 1635
+- host 2 in time: 12.487 1564
+- host 3 in time: 12.489 1938
+- host 4 in time: 12.49 1572
+- host 5 in time: 12.49 1910
+- host 6 in time: 12.49 1189
+- host 7 in time: 12.49 2344
+- host 8 in time: 12.491 2082
+- host 9 in time: 12.491 1062
+PM4 before migration: 1938
+=== PM1 usage after getting a migration: 1472
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+PM4 before migration: 1938
+The minimum PM is: PM10@katsavoinen_feb with usage: 1062 for host: PM4
+PM4 before migration: 1938
+The minimum PM is: PM10@katsavoinen_feb with usage: 1062 for host: PM4
+PM4 before migration: 1938
+- host 0 in time: 17.759 1472
+- host 1 in time: 17.759 1635
+- host 2 in time: 17.76 1564
+- host 3 in time: 17.76 1938
+- host 4 in time: 17.76 1572
+- host 5 in time: 17.76 1910
+- host 6 in time: 17.761 1189
+- host 7 in time: 17.761 2344
+- host 8 in time: 17.763 2082
+- host 9 in time: 17.763 1227
+=== PM10 usage after getting a migration: 1227
+The minimum PM is: PM10@katsavoinen_feb with usage: 1062 for host: PM4
+PM4 before migration: 1938
+- host 0 in time: 17.969 1472
+- host 1 in time: 17.969 1635
+- host 2 in time: 17.97 1564
+- host 3 in time: 17.97 1938
+- host 4 in time: 17.97 1572
+- host 5 in time: 17.972 1910
+- host 6 in time: 17.973 1189
+- host 7 in time: 17.973 2344
+- host 8 in time: 17.974 2082
+- host 9 in time: 17.974 1227
+=== PM10 usage after getting a migration: 1227
+The minimum PM is: PM10@katsavoinen_feb with usage: 1062 for host: PM4
+PM4 before migration: 1938
+- host 0 in time: 18.195 1472
+- host 1 in time: 18.195 1635
+- host 2 in time: 18.195 1564
+- host 3 in time: 18.196 1938
+- host 4 in time: 18.196 1572
+- host 5 in time: 18.196 1910
+- host 6 in time: 18.196 1189
+- host 7 in time: 18.197 2344
+- host 8 in time: 18.197 2082
+- host 9 in time: 18.197 1227
+=== PM10 usage after getting a migration: 1227
+- host 0 in time: 18.254 1472
+- host 1 in time: 18.254 1635
+- host 2 in time: 18.254 1564
+- host 3 in time: 18.255 1773
+- host 4 in time: 18.255 1572
+- host 5 in time: 18.255 1910
+- host 6 in time: 18.255 1189
+- host 7 in time: 18.256 2344
+- host 8 in time: 18.256 2082
+- host 9 in time: 18.256 1227
+=== PM4 usage after sending a migration: 1773
+The minimum PM is: PM7@katsavoinen_feb with usage: 1189 for host: PM4
+PM4 before migration: 1773
+- host 0 in time: 18.471 1472
+- host 1 in time: 18.471 1635
+- host 2 in time: 18.472 1564
+- host 3 in time: 18.472 1773
+- host 4 in time: 18.472 1572
+- host 5 in time: 18.473 1910
+- host 6 in time: 18.473 1189
+- host 7 in time: 18.473 2344
+- host 8 in time: 18.473 2082
+- host 9 in time: 18.474 1227
+=== PM10 usage after getting a migration: 1227
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+PM6 before migration: 1910
+The minimum PM is: PM7@katsavoinen_feb with usage: 1189 for host: PM6
+The minimum PM is: PM7@katsavoinen_feb with usage: 1189 for host: PM6
+PM6 before migration: 1910
+The minimum PM is: PM7@katsavoinen_feb with usage: 1189 for host: PM6
+PM6 before migration: 1910
+- host 0 in time: 29.669 1472
+- host 1 in time: 29.67 1635
+- host 2 in time: 29.67 1564
+- host 3 in time: 29.67 1773
+- host 4 in time: 29.67 1572
+- host 5 in time: 29.671 1910
+- host 6 in time: 29.671 1349
+- host 7 in time: 29.671 2344
+- host 8 in time: 29.671 2082
+- host 9 in time: 29.673 1227
+=== PM7 usage after getting a migration: 1349
+- host 0 in time: 29.676 1472
+- host 1 in time: 29.678 1635
+- host 2 in time: 29.678 1564
+- host 3 in time: 29.678 1773
+- host 4 in time: 29.678 1572
+The minimum PM is: PM7@katsavoinen_feb with usage: 1189 for host: PM6
+- host 5 in time: 29.679 1910
+- host 6 in time: 29.679 1349
+- host 7 in time: 29.679 2344
+- host 8 in time: 29.679 2082
+- host 9 in time: 29.68 1227
+=== PM7 usage after getting a migration: 1349
+PM6 before migration: 1910
+PM6 before migration: 1910
+- host 0 in time: 29.833 1472
+- host 1 in time: 29.833 1635
+- host 2 in time: 29.833 1564
+- host 3 in time: 29.834 1773
+- host 4 in time: 29.834 1572
+- host 5 in time: 29.834 1910
+- host 6 in time: 29.834 1349
+- host 7 in time: 29.835 2344
+- host 8 in time: 29.837 2082
+- host 9 in time: 29.837 1227
+=== PM7 usage after getting a migration: 1349
+PM6 before migration: 1910
+- host 0 in time: 29.943 1472
+- host 1 in time: 29.944 1635
+- host 2 in time: 29.944 1564
+- host 3 in time: 29.944 1773
+- host 4 in time: 29.944 1572
+- host 5 in time: 29.945 1910
+- host 6 in time: 29.945 1349
+- host 7 in time: 29.945 2344
+- host 8 in time: 29.948 2082
+- host 9 in time: 29.948 1227
+=== PM7 usage after getting a migration: 1349
+PM6 before migration: 1910
+- host 0 in time: 30.054 1472
+- host 1 in time: 30.055 1635
+- host 2 in time: 30.055 1564
+- host 3 in time: 30.056 1773
+- host 4 in time: 30.056 1572
+- host 5 in time: 30.056 1750
+- host 6 in time: 30.056 1349
+- host 7 in time: 30.057 2344
+- host 8 in time: 30.058 2082
+- host 9 in time: 30.058 1227
+=== PM6 usage after sending a migration: 1750
+PM6 before migration: 1750
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM9 before migration: 2082
+The minimum PM is: PM10@katsavoinen_feb with usage: 1227 for host: PM8
+The minimum PM is: PM10@katsavoinen_feb with usage: 1227 for host: PM8
+The minimum PM is: PM10@katsavoinen_feb with usage: 1227 for host: PM8
+The minimum PM is: PM10@katsavoinen_feb with usage: 1227 for host: PM8
+The minimum PM is: PM10@katsavoinen_feb with usage: 1227 for host: PM8
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM9 before migration: 2082
+- host 0 in time: 33.773 1472
+- host 1 in time: 33.773 1635
+- host 2 in time: 33.773 1564
+- host 3 in time: 33.774 1773
+- host 4 in time: 33.774 1572
+- host 5 in time: 33.774 1750
+- host 6 in time: 33.774 1349
+- host 7 in time: 33.775 2344
+- host 8 in time: 33.775 2082
+- host 9 in time: 33.777 1373
+- host 0 in time: 33.78 1472
+- host 1 in time: 33.78 1635
+- host 2 in time: 33.782 1564
+- host 3 in time: 33.782 1773
+- host 4 in time: 33.782 1572
+- host 5 in time: 33.783 1750
+- host 6 in time: 33.783 1349
+- host 7 in time: 33.783 2344
+- host 8 in time: 33.783 2082
+- host 9 in time: 33.784 1373
+- host 0 in time: 33.785 1472
+- host 1 in time: 33.785 1635
+- host 2 in time: 33.785 1564
+- host 3 in time: 33.785 1773
+- host 4 in time: 33.786 1572
+- host 5 in time: 33.786 1750
+- host 6 in time: 33.786 1349
+- host 7 in time: 33.787 2344
+- host 8 in time: 33.787 2082
+- host 9 in time: 33.789 1373
+=== PM10 usage after getting a migration: 1373
+=== PM10 usage after getting a migration: 1373
+=== PM10 usage after getting a migration: 1373
+- host 0 in time: 33.794 1472
+- host 1 in time: 33.797 1635
+- host 2 in time: 33.797 1564
+- host 3 in time: 33.797 1773
+- host 4 in time: 33.797 1572
+- host 5 in time: 33.799 1750
+- host 6 in time: 33.799 1349
+- host 7 in time: 33.799 2344
+- host 8 in time: 33.799 2082
+- host 9 in time: 33.8 1373
+- host 0 in time: 33.801 1472
+- host 1 in time: 33.801 1635
+- host 2 in time: 33.801 1564
+- host 3 in time: 33.802 1773
+- host 4 in time: 33.802 1572
+- host 5 in time: 33.802 1750
+PM9 before migration: 2082
+- host 6 in time: 33.803 1349
+- host 7 in time: 33.803 2344
+- host 8 in time: 33.803 2082
+- host 9 in time: 33.804 1373
+=== PM10 usage after getting a migration: 1373
+=== PM10 usage after getting a migration: 1373
+PM8 before migration: 2344
+PM9 before migration: 2082
+The minimum PM is: PM10@katsavoinen_feb with usage: 1227 for host: PM8
+The minimum PM is: PM10@katsavoinen_feb with usage: 1227 for host: PM8
+PM9 before migration: 2082
+The minimum PM is: PM10@katsavoinen_feb with usage: 1227 for host: PM8
+PM8 before migration: 2344
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2344
+PM9 before migration: 2082
+The minimum PM is: PM10@katsavoinen_feb with usage: 1227 for host: PM8
+The minimum PM is: PM10@katsavoinen_feb with usage: 1227 for host: PM8
+PM9 before migration: 2082
+- host 0 in time: 34.1 1472
+- host 1 in time: 34.1 1635
+- host 2 in time: 34.102 1564
+- host 3 in time: 34.102 1773
+- host 4 in time: 34.103 1572
+- host 5 in time: 34.103 1750
+- host 6 in time: 34.103 1349
+- host 7 in time: 34.103 2198
+- host 8 in time: 34.104 2082
+- host 9 in time: 34.104 1373
+=== PM8 usage after sending a migration: 2198
+PM8 before migration: 2198
+- host 0 in time: 34.121 1472
+- host 1 in time: 34.121 1635
+- host 2 in time: 34.121 1564
+- host 3 in time: 34.122 1773
+- host 4 in time: 34.122 1572
+- host 5 in time: 34.122 1750
+- host 6 in time: 34.122 1349
+- host 7 in time: 34.122 2198
+- host 8 in time: 34.123 2082
+- host 9 in time: 34.123 1373
+=== PM10 usage after getting a migration: 1373
+- host 0 in time: 34.13 1472
+- host 1 in time: 34.13 1635
+- host 2 in time: 34.13 1564
+- host 3 in time: 34.131 1773
+- host 4 in time: 34.131 1572
+- host 5 in time: 34.131 1750
+- host 6 in time: 34.131 1349
+- host 7 in time: 34.132 2198
+- host 8 in time: 34.132 2082
+- host 9 in time: 34.132 1373
+=== PM10 usage after getting a migration: 1373
+- host 0 in time: 34.144 1472
+- host 1 in time: 34.144 1635
+- host 2 in time: 34.144 1564
+- host 3 in time: 34.145 1773
+- host 4 in time: 34.145 1572
+- host 5 in time: 34.145 1750
+- host 6 in time: 34.145 1349
+- host 7 in time: 34.146 2198
+- host 8 in time: 34.146 2082
+- host 9 in time: 34.146 1373
+=== PM10 usage after getting a migration: 1373
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2198
+PM9 before migration: 2082
+PM8 before migration: 2198
+- host 0 in time: 34.344 1472
+- host 1 in time: 34.344 1635
+- host 2 in time: 34.344 1564
+- host 3 in time: 34.345 1773
+- host 4 in time: 34.345 1572
+- host 5 in time: 34.345 1750
+- host 6 in time: 34.345 1349
+- host 7 in time: 34.346 2198
+- host 8 in time: 34.346 2082
+- host 9 in time: 34.346 1543
+=== PM10 usage after getting a migration: 1543
+PM9 before migration: 2082
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 2082
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 2082
+PM9 before migration: 2082
+PM8 before migration: 2198
+PM8 before migration: 2198
+The minimum PM is: PM7@katsavoinen_feb with usage: 1349 for host: PM9
+PM9 before migration: 2082
+PM8 before migration: 2198
+The minimum PM is: PM7@katsavoinen_feb with usage: 1349 for host: PM9
+PM9 before migration: 2082
+PM8 before migration: 2198
+PM9 before migration: 2082
+- host 0 in time: 35.302 1472
+- host 1 in time: 35.302 1635
+- host 2 in time: 35.302 1564
+- host 3 in time: 35.303 1773
+- host 4 in time: 35.303 1572
+- host 5 in time: 35.303 1750
+- host 6 in time: 35.303 1506
+- host 7 in time: 35.304 2198
+- host 8 in time: 35.307 2082
+- host 9 in time: 35.308 1543
+=== PM7 usage after getting a migration: 1506
+PM8 before migration: 2198
+The minimum PM is: PM7@katsavoinen_feb with usage: 1349 for host: PM9
+PM8 before migration: 2198
+PM9 before migration: 2082
+- host 0 in time: 35.438 1472
+- host 1 in time: 35.439 1635
+- host 2 in time: 35.439 1564
+- host 3 in time: 35.439 1773
+- host 4 in time: 35.439 1572
+- host 5 in time: 35.44 1750
+- host 6 in time: 35.44 1506
+- host 7 in time: 35.44 2198
+- host 8 in time: 35.442 2082
+- host 9 in time: 35.442 1543
+=== PM7 usage after getting a migration: 1506
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 2082
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 2082
+- host 0 in time: 35.616 1472
+- host 1 in time: 35.616 1635
+- host 2 in time: 35.617 1564
+- host 3 in time: 35.617 1773
+- host 4 in time: 35.617 1572
+- host 5 in time: 35.617 1750
+- host 6 in time: 35.618 1506
+- host 7 in time: 35.618 2198
+- host 8 in time: 35.618 2082
+- host 9 in time: 35.618 1543
+=== PM7 usage after getting a migration: 1506
+The minimum PM is: PM7@katsavoinen_feb with usage: 1349 for host: PM9
+The minimum PM is: PM7@katsavoinen_feb with usage: 1349 for host: PM9
+- host 0 in time: 35.648 1472
+- host 1 in time: 35.65 1635
+- host 2 in time: 35.65 1564
+- host 3 in time: 35.65 1773
+- host 4 in time: 35.65 1572
+- host 5 in time: 35.651 1750
+- host 6 in time: 35.651 1506
+- host 7 in time: 35.651 2198
+- host 8 in time: 35.651 1925
+- host 9 in time: 35.651 1543
+=== PM9 usage after sending a migration: 1925
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM8 before migration: 2198
+The minimum PM is: PM7@katsavoinen_feb with usage: 1349 for host: PM9
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+PM8 before migration: 2198
+The minimum PM is: PM1@katsavoinen_feb with usage: 1472 for host: PM8
+PM8 before migration: 2198
+The minimum PM is: PM1@katsavoinen_feb with usage: 1472 for host: PM8
+PM8 before migration: 2198
+- host 0 in time: 39.467 1642
+- host 1 in time: 39.467 1635
+- host 2 in time: 39.468 1564
+- host 3 in time: 39.468 1773
+- host 4 in time: 39.468 1572
+- host 5 in time: 39.468 1750
+- host 6 in time: 39.469 1506
+- host 7 in time: 39.469 2198
+- host 8 in time: 39.469 1925
+- host 9 in time: 39.469 1543
+=== PM1 usage after getting a migration: 1642
+The minimum PM is: PM1@katsavoinen_feb with usage: 1472 for host: PM8
+PM8 before migration: 2198
+======== not enough space
+=== PM1 usage after getting a migration: 1642
+The minimum PM is: PM1@katsavoinen_feb with usage: 1472 for host: PM8
+PM8 before migration: 2198
+======== not enough space
+=== PM1 usage after getting a migration: 1642
+The minimum PM is: PM1@katsavoinen_feb with usage: 1472 for host: PM8
+- host 0 in time: 39.91 1642
+- host 1 in time: 39.91 1635
+- host 2 in time: 39.91 1564
+- host 3 in time: 39.91 1773
+- host 4 in time: 39.911 1572
+- host 5 in time: 39.911 1750
+- host 6 in time: 39.911 1506
+- host 7 in time: 39.911 2028
+- host 8 in time: 39.911 1925
+- host 9 in time: 39.911 1543
+=== PM8 usage after sending a migration: 2028
+PM8 before migration: 2028
+======== not enough space
+=== PM1 usage after getting a migration: 1642
+The minimum PM is: PM1@katsavoinen_feb with usage: 1472 for host: PM8
+PM8 before migration: 2028
+======== not enough space
+=== PM1 usage after getting a migration: 1642
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+The minimum PM is: PM7@katsavoinen_feb with usage: 1506 for host: PM9
+The minimum PM is: PM7@katsavoinen_feb with usage: 1506 for host: PM9
+PM9 before migration: 1925
+PM9 before migration: 1925
+- host 0 in time: 59.518 1642
+- host 1 in time: 59.519 1635
+- host 2 in time: 59.519 1564
+- host 3 in time: 59.519 1773
+- host 4 in time: 59.519 1572
+- host 5 in time: 59.52 1750
+- host 6 in time: 59.521 1665
+- host 7 in time: 59.521 2028
+- host 8 in time: 59.521 1925
+- host 9 in time: 59.521 1543
+=== PM7 usage after getting a migration: 1665
+======== not enough space
+=== PM7 usage after getting a migration: 1665
+The minimum PM is: PM7@katsavoinen_feb with usage: 1506 for host: PM9
+The minimum PM is: PM7@katsavoinen_feb with usage: 1506 for host: PM9
+The minimum PM is: PM7@katsavoinen_feb with usage: 1506 for host: PM9
+PM9 before migration: 1925
+PM9 before migration: 1925
+PM9 before migration: 1925
+======== not enough space
+======== not enough space
+=== PM7 usage after getting a migration: 1665
+=== PM7 usage after getting a migration: 1665
+======== not enough space
+=== PM7 usage after getting a migration: 1665
+The minimum PM is: PM7@katsavoinen_feb with usage: 1506 for host: PM9
+The minimum PM is: PM7@katsavoinen_feb with usage: 1506 for host: PM9
+- host 0 in time: 59.764 1642
+- host 1 in time: 59.764 1635
+- host 2 in time: 59.765 1564
+- host 3 in time: 59.765 1773
+- host 4 in time: 59.765 1572
+- host 5 in time: 59.765 1750
+- host 6 in time: 59.766 1665
+- host 7 in time: 59.766 2028
+- host 8 in time: 59.766 1766
+- host 9 in time: 59.767 1543
+=== PM9 usage after sending a migration: 1766
+PM9 before migration: 1766
+PM9 before migration: 1766
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+PM8 before migration: 2028
+The minimum PM is: PM10@katsavoinen_feb with usage: 1543 for host: PM8
+PM8 before migration: 2028
+The minimum PM is: PM10@katsavoinen_feb with usage: 1543 for host: PM8
+PM8 before migration: 2028
+- host 0 in time: 62.923 1642
+- host 1 in time: 62.924 1635
+- host 2 in time: 62.924 1564
+- host 3 in time: 62.924 1773
+- host 4 in time: 62.924 1572
+- host 5 in time: 62.925 1750
+- host 6 in time: 62.925 1665
+- host 7 in time: 62.925 2028
+- host 8 in time: 62.925 1766
+- host 9 in time: 62.927 1690
+=== PM10 usage after getting a migration: 1690
+The minimum PM is: PM10@katsavoinen_feb with usage: 1543 for host: PM8
+The minimum PM is: PM10@katsavoinen_feb with usage: 1543 for host: PM8
+PM8 before migration: 2028
+======== not enough space
+=== PM10 usage after getting a migration: 1690
+The minimum PM is: PM10@katsavoinen_feb with usage: 1543 for host: PM8
+PM8 before migration: 2028
+======== not enough space
+======== not enough space
+=== PM10 usage after getting a migration: 1690
+=== PM10 usage after getting a migration: 1690
+- host 0 in time: 63.074 1642
+- host 1 in time: 63.075 1635
+- host 2 in time: 63.075 1564
+- host 3 in time: 63.075 1773
+- host 4 in time: 63.075 1572
+- host 5 in time: 63.076 1750
+- host 6 in time: 63.076 1665
+- host 7 in time: 63.077 1881
+- host 8 in time: 63.078 1766
+- host 9 in time: 63.078 1690
+=== PM8 usage after sending a migration: 1881
+The minimum PM is: PM3@katsavoinen_feb with usage: 1564 for host: PM8
+PM8 before migration: 1881
+======== not enough space
+=== PM10 usage after getting a migration: 1690
+The minimum PM is: PM3@katsavoinen_feb with usage: 1564 for host: PM8
+PM8 before migration: 1881
+- host 0 in time: 63.184 1642
+- host 1 in time: 63.184 1635
+- host 2 in time: 63.184 1732
+- host 3 in time: 63.185 1773
+- host 4 in time: 63.185 1572
+- host 5 in time: 63.185 1750
+- host 6 in time: 63.185 1665
+- host 7 in time: 63.186 1881
+- host 8 in time: 63.186 1766
+- host 9 in time: 63.186 1690
+=== PM3 usage after getting a migration: 1732
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+PM8 before migration: 1881
+The minimum PM is: PM5@katsavoinen_feb with usage: 1572 for host: PM8
+PM8 before migration: 1881
+The minimum PM is: PM5@katsavoinen_feb with usage: 1572 for host: PM8
+The minimum PM is: PM5@katsavoinen_feb with usage: 1572 for host: PM8
+PM8 before migration: 1881
+- host 0 in time: 84.847 1642
+- host 1 in time: 84.847 1635
+- host 2 in time: 84.847 1732
+- host 3 in time: 84.847 1773
+- host 4 in time: 84.848 1740
+- host 5 in time: 84.848 1750
+- host 6 in time: 84.848 1665
+- host 7 in time: 84.848 1881
+- host 8 in time: 84.851 1766
+- host 9 in time: 84.851 1690
+=== PM5 usage after getting a migration: 1740
+The minimum PM is: PM5@katsavoinen_feb with usage: 1572 for host: PM8
+PM8 before migration: 1881
+======== not enough space
+=== PM5 usage after getting a migration: 1740
+======== not enough space
+=== PM5 usage after getting a migration: 1740
+The minimum PM is: PM5@katsavoinen_feb with usage: 1572 for host: PM8
+PM8 before migration: 1881
+======== not enough space
+=== PM5 usage after getting a migration: 1740
+The minimum PM is: PM5@katsavoinen_feb with usage: 1572 for host: PM8
+- host 0 in time: 85.023 1642
+- host 1 in time: 85.024 1635
+- host 2 in time: 85.024 1732
+- host 3 in time: 85.024 1773
+- host 4 in time: 85.024 1740
+- host 5 in time: 85.024 1750
+- host 6 in time: 85.025 1665
+- host 7 in time: 85.026 1713
+- host 8 in time: 85.027 1766
+- host 9 in time: 85.027 1690
+=== PM8 usage after sending a migration: 1713
+PM8 before migration: 1713
+======== not enough space
+=== PM5 usage after getting a migration: 1740
+- host 0 in time: 248.906 1642
+- host 1 in time: 248.923 1635
+- host 2 in time: 248.923 1732
+- host 3 in time: 248.923 1773
+- host 4 in time: 248.924 1740
+- host 5 in time: 248.924 1750
+- host 6 in time: 248.924 1665
+- host 7 in time: 248.924 1713
+- host 8 in time: 248.924 1766
+- host 9 in time: 248.925 1690
+Exit Simulation.

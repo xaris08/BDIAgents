@@ -1,0 +1,103 @@
+Starting CloudSimulator...
+Done with creating hosts...
+PM1 has usage: 2115
+PM2 has usage: 1531
+PM3 has usage: 1666
+PM4 has usage: 1143
+- host 0 in time: 0.0 2115
+- host 1 in time: 0.0 1531
+- host 2 in time: 0.0 1666
+- host 3 in time: 0.0 1143
+PM1 before migration: 2115
+PM1 before migration: 2115
+PM1 before migration: 2115
+PM1 before migration: 2115
+The minimum PM is: PM4@katsavoinen_2eb with usage: 1143 for host: PM1
+PM1 before migration: 2115
+The minimum PM is: PM4@katsavoinen_2eb with usage: 1143 for host: PM1
+- host 0 in time: 5.172 2115
+- host 1 in time: 5.174 1531
+- host 2 in time: 5.174 1666
+- host 3 in time: 5.177 1303
+=== PM4 usage after getting a migration: 1303
+- host 0 in time: 5.197 1955
+- host 1 in time: 5.198 1531
+- host 2 in time: 5.198 1666
+- host 3 in time: 5.199 1303
+=== PM1 usage after sending a migration: 1955
+- host 0 in time: 6.125 1955
+- host 1 in time: 6.125 1531
+- host 2 in time: 6.126 1666
+- host 3 in time: 6.126 1303
+=== PM4 usage after getting a migration: 1303
+PM1 before migration: 1955
+PM1 before migration: 1955
+PM1 before migration: 1955
+PM1 before migration: 1955
+The minimum PM is: PM4@katsavoinen_2eb with usage: 1303 for host: PM1
+PM1 before migration: 1955
+The minimum PM is: PM4@katsavoinen_2eb with usage: 1303 for host: PM1
+- host 0 in time: 30.387 1955
+- host 1 in time: 30.389 1531
+- host 2 in time: 30.389 1666
+- host 3 in time: 30.39 1453
+=== PM4 usage after getting a migration: 1453
+- host 0 in time: 30.406 1805
+- host 1 in time: 30.407 1531
+- host 2 in time: 30.407 1666
+- host 3 in time: 30.408 1453
+=== PM1 usage after sending a migration: 1805
+- host 0 in time: 31.397 1805
+- host 1 in time: 31.397 1531
+- host 2 in time: 31.398 1666
+- host 3 in time: 31.398 1453
+=== PM4 usage after getting a migration: 1453
+PM1 before migration: 1805
+PM1 before migration: 1805
+PM1 before migration: 1805
+PM1 before migration: 1805
+The minimum PM is: PM4@katsavoinen_2eb with usage: 1453 for host: PM1
+PM1 before migration: 1805
+The minimum PM is: PM4@katsavoinen_2eb with usage: 1453 for host: PM1
+- host 0 in time: 55.534 1805
+- host 1 in time: 55.536 1531
+- host 2 in time: 55.537 1666
+- host 3 in time: 55.538 1562
+=== PM4 usage after getting a migration: 1562
+- host 0 in time: 55.555 1696
+- host 1 in time: 55.555 1531
+- host 2 in time: 55.556 1666
+- host 3 in time: 55.556 1562
+=== PM1 usage after sending a migration: 1696
+- host 0 in time: 56.55 1696
+- host 1 in time: 56.55 1531
+- host 2 in time: 56.551 1666
+- host 3 in time: 56.551 1562
+=== PM4 usage after getting a migration: 1562
+PM1 before migration: 1854
+PM1 before migration: 1854
+PM1 before migration: 1854
+PM1 before migration: 1854
+The minimum PM is: PM2@katsavoinen_2eb with usage: 1531 for host: PM1
+PM1 before migration: 1854
+The minimum PM is: PM2@katsavoinen_2eb with usage: 1531 for host: PM1
+- host 0 in time: 92.436 1854
+- host 1 in time: 92.437 1696
+- host 2 in time: 92.44 1666
+- host 3 in time: 92.44 1562
+=== PM2 usage after getting a migration: 1696
+- host 0 in time: 92.454 1689
+- host 1 in time: 92.456 1696
+- host 2 in time: 92.456 1666
+- host 3 in time: 92.456 1562
+=== PM1 usage after sending a migration: 1689
+- host 0 in time: 93.446 1689
+- host 1 in time: 93.446 1696
+- host 2 in time: 93.447 1666
+- host 3 in time: 93.447 1562
+=== PM2 usage after getting a migration: 1696
+- host 0 in time: 102.529 1689
+- host 1 in time: 102.529 1696
+- host 2 in time: 102.53 1666
+- host 3 in time: 102.53 1562
+Exit Simulation.

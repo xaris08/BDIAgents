@@ -1,0 +1,339 @@
+Starting CloudSimulator...
+Done with creating hosts...
+PM1 has usage: 1863
+PM2 has usage: 1815
+PM3 has usage: 1257
+PM4 has usage: 1884
+PM5 has usage: 1611
+PM6 has usage: 1503
+PM7 has usage: 1763
+PM8 has usage: 1844
+PM9 has usage: 1062
+PM10 has usage: 921
+- host 0 in time: 0.0 1863
+- host 1 in time: 0.0 1815
+- host 2 in time: 0.0 1257
+- host 3 in time: 0.0 1884
+- host 4 in time: 0.0 1611
+- host 5 in time: 0.0 1503
+- host 6 in time: 0.0 1763
+- host 7 in time: 0.0 1844
+- host 8 in time: 0.0 1062
+- host 9 in time: 0.0 921
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+PM8 before migration: 1844
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+PM8 before migration: 1844
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+PM8 before migration: 1844
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+PM8 before migration: 1844
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+PM8 before migration: 1844
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+PM8 before migration: 1844
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+PM8 before migration: 1844
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+PM8 before migration: 1844
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+PM8 before migration: 1844
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+The minimum PM is: PM10@katsavoinen_a3e with usage: 921 for host: PM1
+The minimum PM is: PM10@katsavoinen_a3e with usage: 921 for host: PM2
+The minimum PM is: PM10@katsavoinen_a3e with usage: 921 for host: PM4
+PM8 before migration: 1844
+The minimum PM is: PM10@katsavoinen_a3e with usage: 921 for host: PM8
+PM1 before migration: 1863
+PM2 before migration: 1815
+PM4 before migration: 1884
+The minimum PM is: PM10@katsavoinen_a3e with usage: 921 for host: PM1
+The minimum PM is: PM10@katsavoinen_a3e with usage: 921 for host: PM2
+- host 0 in time: 10.89 1863
+- host 1 in time: 10.891 1815
+- host 2 in time: 10.891 1257
+- host 3 in time: 10.892 1884
+- host 4 in time: 10.892 1611
+- host 5 in time: 10.892 1503
+- host 6 in time: 10.893 1763
+- host 7 in time: 10.893 1844
+- host 8 in time: 10.893 1062
+- host 9 in time: 10.894 1050
+=== PM10 usage after getting a migration: 1050
+- host 0 in time: 10.898 1863
+- host 1 in time: 10.899 1815
+- host 2 in time: 10.899 1257
+- host 3 in time: 10.9 1884
+- host 4 in time: 10.9 1611
+- host 5 in time: 10.9 1503
+- host 6 in time: 10.901 1763
+- host 0 in time: 10.901 1734
+- host 7 in time: 10.901 1844
+- host 1 in time: 10.901 1815
+- host 8 in time: 10.902 1062
+- host 2 in time: 10.902 1257
+- host 9 in time: 10.902 1222
+- host 3 in time: 10.902 1884
+- host 4 in time: 10.903 1611
+- host 5 in time: 10.906 1503
+=== PM10 usage after getting a migration: 1222
+- host 6 in time: 10.906 1763
+- host 7 in time: 10.907 1844
+- host 8 in time: 10.907 1062
+- host 9 in time: 10.908 1222
+=== PM1 usage after sending a migration: 1734
+- host 0 in time: 10.912 1734
+- host 1 in time: 10.912 1643
+- host 2 in time: 10.912 1257
+- host 3 in time: 10.913 1884
+- host 4 in time: 10.913 1611
+- host 5 in time: 10.914 1503
+- host 6 in time: 10.914 1763
+- host 7 in time: 10.915 1844
+- host 8 in time: 10.915 1062
+- host 9 in time: 10.915 1222
+=== PM2 usage after sending a migration: 1643
+- host 0 in time: 10.963 1734
+- host 1 in time: 10.963 1643
+- host 2 in time: 10.964 1257
+- host 3 in time: 10.964 1884
+- host 4 in time: 10.965 1611
+- host 5 in time: 10.965 1503
+- host 6 in time: 10.965 1763
+- host 7 in time: 10.966 1844
+- host 8 in time: 10.966 1062
+- host 9 in time: 10.967 1402
+=== PM10 usage after getting a migration: 1402
+PM8 before migration: 1844
+The minimum PM is: PM9@katsavoinen_a3e with usage: 1062 for host: PM4
+- host 0 in time: 10.987 1734
+- host 1 in time: 10.988 1643
+- host 2 in time: 10.988 1257
+- host 3 in time: 10.988 1704
+- host 4 in time: 10.989 1611
+- host 5 in time: 10.989 1503
+- host 6 in time: 10.99 1763
+- host 7 in time: 10.99 1844
+- host 8 in time: 10.99 1062
+- host 9 in time: 10.991 1402
+=== PM4 usage after sending a migration: 1704
+The minimum PM is: PM9@katsavoinen_a3e with usage: 1062 for host: PM8
+- host 0 in time: 11.15 1734
+- host 1 in time: 11.151 1643
+- host 2 in time: 11.151 1257
+- host 3 in time: 11.151 1704
+- host 4 in time: 11.152 1611
+- host 5 in time: 11.152 1503
+- host 6 in time: 11.152 1763
+- host 7 in time: 11.152 1844
+- host 8 in time: 11.153 1062
+- host 9 in time: 11.155 1564
+=== PM10 usage after getting a migration: 1564
+- host 0 in time: 11.163 1734
+- host 1 in time: 11.164 1643
+- host 2 in time: 11.164 1257
+- host 3 in time: 11.164 1704
+- host 4 in time: 11.165 1611
+- host 5 in time: 11.165 1503
+- host 6 in time: 11.165 1763
+- host 7 in time: 11.165 1682
+- host 8 in time: 11.166 1062
+- host 9 in time: 11.166 1564
+=== PM8 usage after sending a migration: 1682
+- host 0 in time: 11.795 1734
+- host 1 in time: 11.795 1643
+- host 2 in time: 11.795 1257
+- host 3 in time: 11.796 1704
+- host 4 in time: 11.796 1611
+- host 5 in time: 11.796 1503
+- host 6 in time: 11.797 1763
+- host 7 in time: 11.797 1682
+- host 8 in time: 11.798 1062
+- host 9 in time: 11.798 1564
+=== PM10 usage after getting a migration: 1564
+- host 0 in time: 11.884 1734
+- host 1 in time: 11.884 1643
+- host 2 in time: 11.885 1257
+- host 3 in time: 11.885 1704
+- host 4 in time: 11.886 1611
+- host 5 in time: 11.886 1503
+- host 6 in time: 11.886 1763
+- host 7 in time: 11.887 1682
+- host 8 in time: 11.889 1062
+- host 9 in time: 11.889 1564
+=== PM10 usage after getting a migration: 1564
+- host 0 in time: 12.117 1734
+- host 1 in time: 12.117 1643
+- host 2 in time: 12.118 1257
+- host 3 in time: 12.118 1704
+- host 4 in time: 12.118 1611
+- host 5 in time: 12.119 1503
+- host 6 in time: 12.119 1763
+- host 7 in time: 12.12 1682
+- host 8 in time: 12.12 1224
+- host 9 in time: 12.123 1564
+=== PM9 usage after getting a migration: 1224
+- host 0 in time: 62.818 1734
+- host 1 in time: 62.818 1643
+- host 2 in time: 62.819 1257
+- host 3 in time: 62.819 1704
+- host 4 in time: 62.819 1611
+- host 5 in time: 62.82 1503
+- host 6 in time: 62.82 1763
+- host 7 in time: 62.82 1682
+- host 8 in time: 62.821 1224
+- host 9 in time: 62.821 1564
+- host 0 in time: 93.587 1734
+- host 1 in time: 93.587 1643
+- host 2 in time: 93.587 1257
+- host 3 in time: 93.588 1704
+- host 4 in time: 93.588 1611
+- host 5 in time: 93.588 1503
+- host 6 in time: 93.589 1763
+- host 7 in time: 93.589 1682
+- host 8 in time: 93.589 1224
+- host 9 in time: 93.59 1733
+- host 0 in time: 93.592 1734
+- host 1 in time: 93.593 1643
+- host 2 in time: 93.593 1257
+- host 3 in time: 93.594 1704
+- host 4 in time: 93.595 1611
+- host 5 in time: 93.596 1503
+- host 6 in time: 93.597 1763
+- host 7 in time: 93.597 1682
+- host 8 in time: 93.598 1224
+- host 9 in time: 93.599 1880
+PM10 before migration: 1985
+PM10 before migration: 1985
+PM10 before migration: 1985
+PM10 before migration: 1985
+PM10 before migration: 1985
+PM10 before migration: 1985
+PM10 before migration: 1985
+PM10 before migration: 1985
+PM10 before migration: 1985
+PM10 before migration: 1985
+The minimum PM is: PM9@katsavoinen_a3e with usage: 1224 for host: PM10
+PM10 before migration: 1985
+- host 0 in time: 104.776 1734
+- host 1 in time: 104.777 1643
+- host 2 in time: 104.777 1257
+- host 3 in time: 104.778 1704
+- host 4 in time: 104.778 1611
+The minimum PM is: PM9@katsavoinen_a3e with usage: 1224 for host: PM10
+- host 5 in time: 104.779 1503
+- host 6 in time: 104.779 1763
+- host 7 in time: 104.783 1682
+- host 8 in time: 104.783 1346
+- host 9 in time: 104.783 1985
+=== PM9 usage after getting a migration: 1346
+- host 0 in time: 104.792 1734
+- host 1 in time: 104.793 1643
+- host 2 in time: 104.796 1257
+- host 3 in time: 104.796 1704
+- host 4 in time: 104.797 1611
+- host 5 in time: 104.797 1503
+- host 6 in time: 104.797 1763
+- host 7 in time: 104.798 1682
+- host 8 in time: 104.798 1346
+- host 9 in time: 104.798 1863
+=== PM10 usage after sending a migration: 1863
+- host 0 in time: 105.789 1734
+- host 1 in time: 105.789 1643
+- host 2 in time: 105.789 1257
+- host 3 in time: 105.79 1704
+- host 4 in time: 105.79 1611
+- host 5 in time: 105.79 1503
+- host 6 in time: 105.791 1763
+- host 7 in time: 105.791 1682
+- host 8 in time: 105.796 1346
+- host 9 in time: 105.796 1863
+=== PM9 usage after getting a migration: 1346
+PM10 before migration: 1863
+PM10 before migration: 1863
+PM10 before migration: 1863
+PM10 before migration: 1863
+PM10 before migration: 1863
+PM10 before migration: 1863
+PM10 before migration: 1863
+PM10 before migration: 1863
+PM10 before migration: 1863
+PM10 before migration: 1863
+The minimum PM is: PM3@katsavoinen_a3e with usage: 1257 for host: PM10
+PM10 before migration: 1863
+- host 0 in time: 135.981 1734
+- host 1 in time: 135.981 1643
+- host 2 in time: 135.982 1402
+- host 3 in time: 135.982 1704
+- host 4 in time: 135.983 1611
+- host 5 in time: 135.983 1503
+- host 6 in time: 135.983 1763
+- host 7 in time: 135.984 1682
+The minimum PM is: PM3@katsavoinen_a3e with usage: 1257 for host: PM10
+- host 8 in time: 135.987 1346
+- host 9 in time: 135.987 1863
+=== PM3 usage after getting a migration: 1402
+- host 0 in time: 135.995 1734
+- host 1 in time: 135.996 1643
+- host 2 in time: 135.996 1402
+- host 3 in time: 135.997 1704
+- host 4 in time: 135.997 1611
+- host 5 in time: 135.997 1503
+- host 6 in time: 135.998 1763
+- host 7 in time: 135.998 1682
+- host 8 in time: 135.999 1346
+- host 9 in time: 135.999 1718
+=== PM10 usage after sending a migration: 1718
+- host 0 in time: 136.994 1734
+- host 1 in time: 136.995 1643
+- host 2 in time: 136.995 1402
+- host 3 in time: 136.996 1704
+- host 4 in time: 136.996 1611
+- host 5 in time: 136.996 1503
+- host 6 in time: 136.997 1763
+- host 7 in time: 136.997 1682
+- host 8 in time: 137.0 1346
+- host 9 in time: 137.001 1718
+=== PM3 usage after getting a migration: 1402
+- host 0 in time: 180.0 1734
+- host 1 in time: 180.0 1643
+- host 2 in time: 180.0 1402
+- host 3 in time: 180.0 1704
+- host 4 in time: 180.001 1611
+- host 5 in time: 180.001 1503
+- host 6 in time: 180.001 1763
+- host 7 in time: 180.001 1682
+- host 8 in time: 180.002 1346
+- host 9 in time: 180.002 1718
+Simulation has been successfully terminated.
+- host 0 in time: 180.008 1734
+- host 1 in time: 180.009 1643
+- host 2 in time: 180.009 1402
+- host 3 in time: 180.009 1704
+- host 4 in time: 180.01 1611
+- host 5 in time: 180.01 1503
+- host 6 in time: 180.01 1763
+- host 7 in time: 180.011 1682
+- host 8 in time: 180.011 1346
+- host 9 in time: 180.011 1718
+Exit Simulation.

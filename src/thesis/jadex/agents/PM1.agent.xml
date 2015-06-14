@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- A simple agent. -->
+<agent xmlns="http://jadex.sourceforge.net/jadex" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://jadex.sourceforge.net/jadex http://jadex.sourceforge.net/jadex-bdi-2.0.xsd"
+	name="PM1" package="thesis.jadex.agents">
+	<imports>
+		<import>java.util.logging.*</import>
+		<import>jadex.base.fipa.*</import>
+		<import>jadex.planlib.*</import>
+		<import>jadex.bridge.service.*</import>
+		<import>thesis.jadex.agents.*</import>
+		<import>thesis.jadex.beliefs.*</import>
+		<import>jadex.bridge.IComponentIdentifier</import>
+		<import>org.cloudbus.cloudsim.Vm</import>
+	</imports>
+
+	<!-- procap, and dfcap -->
+	<capabilities>
+		<!-- Include the protocols cap. -->
+		<capability name="procap"
+			file="jadex.bdi.planlib.protocols.request.Request" />
+		<!-- Include the directory facilitator capability under the name dfcap. -->
+		<capability name="dfcap" file="jadex.bdi.planlib.df.DF" />
+	</capabilities>
+
+	<beliefs>
+		<beliefset name="vm_list" class="Integer" >
+			<facts>new VirtualMachineList(0).getList()</facts>
+		</beliefset>
+		<belief name="cpu_usage" class="Integer" updaterate="100" >
+			<fact>new CalculateCpuUsage(0).getCpu()</fact>
+		</belief>
+		<belief name="total_pm_resources" class="Integer" />
+		<belief name="maxVm" class="Vm">
+			<fact>new GetMaxVm(0).getVm()</fact>
+		</belief>
+		<belief name="threshold" class="Integer">
+			<fact>0.9*$beliefbase.total_pm_resources</fact>
+		</belief>
+		<belief name="cpu_availability" class="Integer">
+			<fact>$beliefbase.threshold-$beliefbase.cpu_usage</fact>
+		</belief>
+		
+	</beliefs>
+
+	<goals> 
+		<!-- Make the keep registered goal available. -->
+		<maintaingoalref name="df_keep_registered">
+			<concrete ref="dfcap.df_keep_registered" />
+		</maintaingoalref>
+		<!-- searching for the agent to communicate -->
+		<achievegoalref name="df_search">
+			<concrete ref="dfcap.df_search" />
+		</achievegoalref>
+		<!-- register for communication -->
+		<achievegoalref name="df_register">
+			<concrete ref="dfcap.df_register" />
+		</achievegoalref>
+		<!-- deregister from the communication -->
+		<achievegoalref name="df_deregister">
+			<concrete ref="dfcap.df_deregister" />
+		</achievegoalref>
+		<!-- Include request goal type from dfcap. -->
+		<achievegoalref name="rp_initiate">
+			<concrete ref="procap.rp_initiate" />
+		</achievegoalref>
+
+		<maintaingoal name="maintain_migration" exclude="never" retry="true">
+<!-- 			<deliberation> -->
+<!--    				 <inhibits ref="request_migration" inhibit="when_in_process"/> -->
+<!--    				 <inhibits ref="migration" inhibit="when_in_process"/> -->
+<!--   			</deliberation> -->
+			<maintaincondition language="jcl">
+				$beliefbase.cpu_usage &lt; $beliefbase.threshold
+			</maintaincondition>
+<!-- 			<targetcondition language="jcl"> -->
+<!--        		 	$beliefbase.cpu_usage &lt; 1800 -->
+<!--  			</targetcondition> -->
+		</maintaingoal>
+	</goals>
+
+	<events>
+		<messageevent name="request" direction="receive" type="fipa">
+			<parameter name="performative" class="String" direction="fixed">
+				<value>SFipa.REQUEST</value>
+			</parameter>
+		</messageevent>
+		<messageevent name="inform" direction="send" type="fipa">
+			<parameter name="performative" class="String" direction="fixed">
+				<value>SFipa.INFORM</value>
+			</parameter>
+		</messageevent>
+	</events>
+	
+
+	<!-- dfservice for communication -->
+	<services>
+		<requiredservice name="dfservice" class="IDF">
+			<binding scope="platform" />
+		</requiredservice>
+	</services>
+
+	<plans>
+		<plan name="plan1">
+			<body class="PM1" />
+			<trigger>
+				<goal ref="maintain_migration" />
+			</trigger>
+		</plan>
+		<plan name="plan2">	
+			<body class="PM1" />
+			<trigger>
+				<messageevent ref="request" />
+			</trigger>
+		</plan>
+	</plans>
+
+	<properties>
+		<!-- Only log outputs >= level are printed. -->
+		<property name="logging.level">Level.INFO</property>
+		<!-- The default parent handler prints out log messages on the console. -->
+		<property name="logging.useParentHandlers">true</property>
+		<property name="dfservice" class="IFuture">
+			SServiceProvider.getService($scope.getServiceProvider(), IDF.class,
+			RequiredServiceInfo.SCOPE_PLATFORM)
+		</property>
+	</properties>
+
+	<configurations>
+		<configuration name="default">
+			<goals>
+				<initialgoal ref="df_register">
+					<parameter ref="description">
+						<value>
+							$properties.dfservice.createDFComponentDescription(null,
+							$properties.dfservice.createDFServiceDescription("request_migration",
+							"communication_service", "Edinburgh university"))
+						</value>
+					</parameter>
+				</initialgoal>
+<!-- 				<initialgoal ref="df_keep_registered"> -->
+<!-- 					<parameter ref="description"> -->
+<!-- 						<value> -->
+<!-- 							$properties.dfservice.createDFComponentDescription(null, -->
+<!-- 							$properties.dfservice.createDFServiceDescription("request_migration", -->
+<!-- 							"communication_service", "Edinburgh university")) -->
+<!-- 						</value> -->
+<!-- 					</parameter> -->
+<!-- 					<parameter ref="leasetime"> -->
+<!-- 						<value>90000</value> -->
+<!-- 					</parameter> -->
+<!-- 				</initialgoal> -->
+				<!-- <initialgoal ref="collect_infos" /> -->
+				<initialgoal ref="maintain_migration" />
+<!-- 				<endgoal ref="df_deregister" /> -->
+			</goals>
+			<beliefs>
+				<initialbelief ref="cpu_usage">
+					<fact>new CalculateCpuUsage(0).getCpu()</fact>
+				</initialbelief>
+				<initialbelief ref="total_pm_resources">
+					<fact>new TotalPMResources(0).getResources()</fact>
+				</initialbelief>
+				<initialbeliefset ref="vm_list">
+					<facts>new VirtualMachineList(0).getList()</facts>
+				</initialbeliefset>
+			</beliefs>
+		</configuration>
+	</configurations>
+</agent>
